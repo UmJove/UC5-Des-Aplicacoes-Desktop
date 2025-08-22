@@ -1,1 +1,1 @@
-# Atividades-UC5---Aplica-es-Desktop
+# Atividades de Unidade Curricular 5 - Desenvolver de Aplicações Desktop
